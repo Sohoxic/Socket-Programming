@@ -18,3 +18,10 @@ gcc client.c -o client
 ```
 ./client 127.0.0.1 3000
 ```
+## To run any other .c  file
+```
+gcc program.c -o prg
+```
+```
+./prg
+```
